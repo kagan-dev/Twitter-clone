@@ -37,15 +37,12 @@ To install the project dependencies, follow the steps below.
 
 Backend Installation:
 
-    bash =>
         cd backend
         npm install
         
 
 Frontend Installation:
 
-
-    bash =>
         cd backend
         npm install
         npm run dev // npm start
@@ -69,14 +66,10 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret_here
 Running the Application
 
     Start the Backend:
-
-    bash =>
       
         npm run dev //npm start
 
 Start the Frontend:
-
-    bash =>
 
        npm run dev //npm start
 
